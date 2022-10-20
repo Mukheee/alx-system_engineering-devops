@@ -1,3 +1,5 @@
-Host 34.138.56.48
-    IdentityFile ~/.ssh/holberton
-    PasswordAuthentication no
+#!/usr/bin/env bash
+# Configure SSH configuration file
+Host 44.197.192.143
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
